@@ -12,8 +12,6 @@ external_links:
 child_type: docs
 ---
 
-### Chapter 1
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/279px-Tesla_Motors.svg.png)
 
 Tesla, Inc. (formerly Tesla Motors, Inc.), is an American automotive and energy company based in Palo Alto, California.[8] The company specializes in electric car manufacturing and, through its SolarCity subsidiary, solar panel manufacturing.[9] It operates multiple production and assembly plants, such as Gigafactory 1 near Reno, Nevada, and its main vehicle manufacturing facility at Tesla Factory in Fremont, California.
