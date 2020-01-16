@@ -1,9 +1,13 @@
 ---
-title: Advanced Topic 1
+title: R1T
+media_order: 2019_12_R1TBlue_BC_PSMotion_Beach_191101_JJ1284-1024x683.jpg
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
+![RIVIAN R1T](2019_12_R1TBlue_BC_PSMotion_Beach_191101_JJ1284-1024x683.jpg)
 Lorem markdownum voces. Adire nant ingreditur quam evadere dixit caelestum
 meliora. Induitur videndi Timoli videres et *quae*, niteant.
 
