@@ -1,5 +1,5 @@
 ---
-title: Bollinger
+title: BOLLINGER
 media_order: cropped-Bollinger-Lines-BW-2.png
 taxonomy:
     category: docs
