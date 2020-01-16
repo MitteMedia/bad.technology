@@ -8,6 +8,6 @@ child_type: docs
 
 ### Chapter 1
 
-# Welcome on Bad.Technology
+# Welcome!
 
-We list **E-Mobiles** up
+We list **E-Mobiles**
