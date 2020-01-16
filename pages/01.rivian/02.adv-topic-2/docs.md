@@ -1,8 +1,13 @@
 ---
-title: Advanced Topic 2
+title: R1S
+media_order: 2019_11_R1SGreen_Fronnt3Quarter_Motion_DunesNYC_9970.jpg
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
+
+![RIVIAN - R1S](2019_11_R1SGreen_Fronnt3Quarter_Motion_DunesNYC_9970.jpg)
 
 Lorem markdownum vides aram est sui istis excipis Danai elusaque manu fores.
 Illa hunc primo pinum pertulit conplevit portusque pace *tacuit* sincera. Iam
