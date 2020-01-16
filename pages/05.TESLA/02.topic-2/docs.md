@@ -1,8 +1,12 @@
 ---
-title: Topic 2
+title: 'Model S'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
+
+### Tesla Model S
 
 Lorem *markdownum saxum et* telum revellere in victus vultus cogamque ut quoque
 spectat pestiferaque siquid me molibus, mihi. Terret hinc quem Phoebus? Modo se
