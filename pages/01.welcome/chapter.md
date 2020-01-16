@@ -8,6 +8,6 @@ child_type: docs
 
 ### Chapter 1
 
-# WELCOME
+# Welcome on Bad.Technology
 
-Discover the **basic** principles
+We list **E-Mobiles** up
