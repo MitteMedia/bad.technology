@@ -1,12 +1,19 @@
 ---
-title: Intermediate
+title: TESLA
+published: true
 taxonomy:
     category: docs
+    tag:
+        - tesla
+    author:
+        - 'Dirk Gerber'
+external_links:
+    target: _blank
 child_type: docs
 ---
 
-### Chapter 2
+### Chapter 1
 
-# Intermediate
+# TESLA
 
 Delve deeper into more **complex** topics
