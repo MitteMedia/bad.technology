@@ -10,4 +10,4 @@ child_type: docs
 
 # Welcome!
 
-We list **E-Mobiles**
+We list **E-Mobiles** and sort them by Manufacturer
